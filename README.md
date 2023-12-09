@@ -21,6 +21,24 @@ Skills: REACT / JS / HTML / CSS / TAILWIND / DAISY UI / MONGOBD /
     * Database: MongoDB <br>
 **Live Link** <a href='https://empower-performa.web.app/'>https://empower-performa.web.app/</a>
 
+#### 2. Hotel Hydra (A Hotel Booking Management System)-
+**Description**: This website is a hotel booking manamgement system. This website will help tourists and other people a lot for remote hotel booking. An user can visit all the hotel rooms, can book available rooms. can see my bookings list, and can provide review after booking a room .<br>
+**Technology Used**:<br>
+    * FrontEnd: Javascript, React JS, Tailwind CSS <br>
+    * BackEnd: Express JS, Node.js <br>
+    * Authenticated with firebase and JWT <br>
+    * Database: MongoDB <br>
+**Live Link** <a href='https://hotel-hydra-client.web.app/'>https://hotel-hydra-client.web.app/</a>
+
+#### 3. Dewe Drinks (A E-commerce Management System for drinks)-
+**Description**: This website is a one kind of e-commerce management system. This website is actually sells drinks and this is a mother company. An user can see all the brands in this website and order the products from the specific brands. and also implemented add to cart system for user.<br>
+**Technology Used**:<br>
+    * FrontEnd: Javascript, React JS, Tailwind CSS <br>
+    * BackEnd: Express JS, Node.js <br>
+    * Authenticated with firebase and JWT <br>
+    * Database: MongoDB <br>
+**Live Link** <a href='https://dewy-drinks-client.web.app/'>https://dewy-drinks-client.web.app/</a>
+
 ### Connect With Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbdulWahidKhan315/ )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wkwahid315/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wkwahid315/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCa_gYv4BngqN7njFdY60C6g)
 
