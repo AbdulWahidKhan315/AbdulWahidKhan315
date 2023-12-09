@@ -11,7 +11,7 @@ Skills: REACT / JS / HTML / CSS / TAILWIND / DAISY UI / MONGOBD /
 - 📫 How to reach me: k.wahidkhan55@gmail.com 
 - ⚡ Fun fact: I love to make people smile 
 
-
+<h3 align="left">Connect With Me:</h3>
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbdulWahidKhan315/ )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wkwahid315/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wkwahid315/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCa_gYv4BngqN7njFdY60C6g)
 
 <h3 align="left">Languages and Tools:</h3>
