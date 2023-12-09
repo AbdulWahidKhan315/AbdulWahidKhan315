@@ -9,7 +9,17 @@ Skills: REACT / JS / HTML / CSS / TAILWIND / DAISY UI / MONGOBD /
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about Web Development 
 - 📫 How to reach me: k.wahidkhan55@gmail.com 
-- ⚡ Fun fact: I love to make people smile 
+- ⚡ Fun fact: I love to make people smile
+
+### Hot Projects:
+#### 1. Empower Performa (An Employee Management System)-
+**Description**: This website Empower Performa is actually an Employee Management System for any organizatins or companies. It will help the company or organization to track on employee, salary, work hour etc.
+**Technology Used**:
+    * FrontEnd: Javascript, React JS, Tailwind CSS
+    * BackEnd: Express JS, Node.js
+    * Authenticated with firebase and JWT
+    * Database: MongoDB
+**Live Link** <a href='https://empower-performa.web.app/'>https://empower-performa.web.app/</a>
 
 ### Connect With Me:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AbdulWahidKhan315/ )  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/wkwahid315/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/wkwahid315/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCa_gYv4BngqN7njFdY60C6g)
