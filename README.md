@@ -13,11 +13,11 @@ Skills: REACT / JS / HTML / CSS / TAILWIND / DAISY UI / MONGOBD /
 
 ### Hot Projects:
 #### 1. Empower Performa (An Employee Management System)-
-**Description**: This website Empower Performa is actually an Employee Management System for any organizatins or companies. It will help the company or organization to track on employee, salary, work hour etc.
+**Description**: This website Empower Performa is actually an Employee Management System for any organizatins or companies. It will help the company or organization to track on employee, salary, work hour etc. <br>
 **Technology Used**:<br>
-    * FrontEnd: Javascript, React JS, Tailwind CSS
-    * BackEnd: Express JS, Node.js
-    * Authenticated with firebase and JWT
+    * FrontEnd: Javascript, React JS, Tailwind CSS <br>
+    * BackEnd: Express JS, Node.js <br>
+    * Authenticated with firebase and JWT <br>
     * Database: MongoDB <br>
 **Live Link** <a href='https://empower-performa.web.app/'>https://empower-performa.web.app/</a>
 
